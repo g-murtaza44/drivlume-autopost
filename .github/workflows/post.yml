@@ -1,0 +1,15 @@
+name: Post reel
+on:
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: "Folder to post"
+        default: "test"
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/post.py "${{ github.event.inputs.folder }}"
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
