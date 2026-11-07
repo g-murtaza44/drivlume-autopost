@@ -22,11 +22,11 @@ def pick_audio(mood):
     p = {"audio_type": "music", "user_id": IGID}
     if mood: p["search_query"] = mood
     res = call("GET", "ig_audio", p)
-    items = res.get("data", [])
+    items = res.get("data") or res.get("audio") or []
     if not items and mood:
-        res = call("GET", "ig_audio", {"audio_type": "music", "user_id": IGID}); items = res.get("data", [])
+        res = call("GET", "ig_audio", {"audio_type": "music", "user_id": IGID}); items = res.get("data") or res.get("audio") or []
     if not items:
-        print("No audio found", res); sys.exit(1)
+        print("No audio found", str(res)[:300]); sys.exit(1)
     a = items[0]
     print("Audio:", a.get("title"), "-", a.get("display_artist") or a.get("artist"))
     return a.get("audio_id") or a.get("id")
