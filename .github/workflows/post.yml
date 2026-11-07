@@ -1,10 +1,16 @@
 name: Post reel
 on:
+  schedule:
+    # 9:17am, 12:17pm, 3:17pm, 6:17pm, 9:17pm Pakistan time
+    - cron: "17 4,7,10,13,16 * * *"
   workflow_dispatch:
     inputs:
       folder:
-        description: "Folder to post"
-        default: "test"
+        description: "Folder to post (empty = next in queue)"
+        default: ""
+permissions:
+  contents: write
+concurrency: post
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -13,3 +19,9 @@ jobs:
       - run: python scripts/post.py "${{ github.event.inputs.folder }}"
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      - name: Save log (keeps repo active)
+        run: |
+          git config user.name "Drivlume Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add posted.log 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Posted $(date -u +%F_%H%M)" && git push)

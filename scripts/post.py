@@ -48,5 +48,18 @@ def post(folder):
     p = call("POST", f"{IGID}/media_publish", {"creation_id": cid})
     print("PUBLISHED", p)
 
+def next_folder():
+    done = set(open("posted.log").read().split()) if os.path.exists("posted.log") else set()
+    if not os.path.isdir("posts"): return None
+    for f in sorted(os.listdir("posts")):
+        path = f"posts/{f}"
+        if path not in done and os.path.exists(f"{path}/reel.mp4"): return path
+    return None
+
 if __name__ == "__main__":
-    post(sys.argv[1])
+    folder = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] else next_folder()
+    if not folder:
+        print("Queue empty, nothing to post."); sys.exit(0)
+    post(folder)
+    with open("posted.log", "a") as f: f.write(folder + "\n")
+    print("Logged", folder)
