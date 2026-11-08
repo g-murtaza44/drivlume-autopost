@@ -1,9 +1,5 @@
 name: Post reel
 on:
-  schedule:
-    # Runs every 20 min; script posts only when a slot (9:17, 12:17, 15:17, 18:17, 21:17 PKT) is due.
-    # GitHub often delays or skips scheduled runs, so frequent checks catch up missed slots.
-    - cron: "7,27,47 * * * *"
   workflow_dispatch:
     inputs:
       folder:
