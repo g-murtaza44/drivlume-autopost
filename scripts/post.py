@@ -68,7 +68,7 @@ def is_due():
     ents = [t for _, t in log_entries() if t]
     today = sum(1 for t in ents if t.astimezone(PKT).date() == now.date())
     last = max(ents) if ents else None
-    if last and now - last < timedelta(minutes=75):
+    if last and now - last < timedelta(minutes=25):
         print("Last post too recent:", last); return False
     print(f"PKT {now:%H:%M} due={due} posted_today={today}")
     return today < due
