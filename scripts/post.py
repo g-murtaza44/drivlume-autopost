@@ -48,8 +48,33 @@ def post(folder):
     p = call("POST", f"{IGID}/media_publish", {"creation_id": cid})
     print("PUBLISHED", p)
 
+from datetime import datetime, timedelta, timezone
+PKT = timezone(timedelta(hours=5))
+SLOTS = [(9,17),(12,17),(15,17),(18,17),(21,17)]
+
+def log_entries():
+    out = []
+    if os.path.exists("posted.log"):
+        for line in open("posted.log").read().splitlines():
+            parts = line.split()
+            if not parts: continue
+            ts = datetime.fromisoformat(parts[1]) if len(parts) > 1 else None
+            out.append((parts[0], ts))
+    return out
+
+def is_due():
+    now = datetime.now(PKT)
+    due = sum(1 for h, m in SLOTS if now >= now.replace(hour=h, minute=m, second=0, microsecond=0))
+    ents = [t for _, t in log_entries() if t]
+    today = sum(1 for t in ents if t.astimezone(PKT).date() == now.date())
+    last = max(ents) if ents else None
+    if last and now - last < timedelta(minutes=75):
+        print("Last post too recent:", last); return False
+    print(f"PKT {now:%H:%M} due={due} posted_today={today}")
+    return today < due
+
 def next_folder():
-    done = set(open("posted.log").read().split()) if os.path.exists("posted.log") else set()
+    done = set(f for f, _ in log_entries())
     if not os.path.isdir("posts"): return None
     for f in sorted(os.listdir("posts")):
         path = f"posts/{f}"
@@ -57,9 +82,12 @@ def next_folder():
     return None
 
 if __name__ == "__main__":
-    folder = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] else next_folder()
+    manual = len(sys.argv) > 1 and sys.argv[1]
+    if not manual and os.environ.get("FORCE") != "1" and not is_due():
+        print("Nothing due now."); sys.exit(0)
+    folder = sys.argv[1] if manual else next_folder()
     if not folder:
         print("Queue empty, nothing to post."); sys.exit(0)
     post(folder)
-    with open("posted.log", "a") as f: f.write(folder + "\n")
+    with open("posted.log", "a") as f: f.write(folder + " " + datetime.now(PKT).isoformat(timespec="seconds") + "\n")
     print("Logged", folder)

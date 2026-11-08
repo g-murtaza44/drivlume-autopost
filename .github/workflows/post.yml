@@ -1,13 +1,17 @@
 name: Post reel
 on:
   schedule:
-    # 9:17am, 12:17pm, 3:17pm, 6:17pm, 9:17pm Pakistan time
-    - cron: "17 4,7,10,13,16 * * *"
+    # Runs every 20 min; script posts only when a slot (9:17, 12:17, 15:17, 18:17, 21:17 PKT) is due.
+    # GitHub often delays or skips scheduled runs, so frequent checks catch up missed slots.
+    - cron: "7,27,47 * * * *"
   workflow_dispatch:
     inputs:
       folder:
         description: "Folder to post (empty = next in queue)"
         default: ""
+      force:
+        description: "Post next in queue now (1 = yes)"
+        default: "1"
 permissions:
   contents: write
 concurrency: post
@@ -19,9 +23,10 @@ jobs:
       - run: python scripts/post.py "${{ github.event.inputs.folder }}"
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          FORCE: ${{ github.event.inputs.force }}
       - name: Save log (keeps repo active)
         run: |
           git config user.name "Drivlume Bot"
           git config user.email "actions@users.noreply.github.com"
           git add posted.log 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "Posted $(date -u +%F_%H%M)" && git push)
+          git diff --cached --quiet || (git commit -m "Posted $(date -u +%F_%H%M)" && git pull --rebase -q && git push)
