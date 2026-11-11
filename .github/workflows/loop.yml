@@ -18,6 +18,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          sleep 90  # let the run that started us finish, so it is not counted as a duplicate
           n=$(gh api "repos/${{ github.repository }}/actions/workflows/loop.yml/runs?status=in_progress" --jq "[.workflow_runs[] | select(.id != ${{ github.run_id }})] | length")
           echo "others=$n" >> $GITHUB_OUTPUT
       - uses: actions/checkout@v4
