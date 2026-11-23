@@ -1,0 +1,77 @@
+001_amgone	-	F1 engine. Road legal. 6:29 around the Green Hell. 🟢 In November 2024 the Mercedes-AMG ONE lapped the Nürburgring Nordschleife in 6:29.090, setting the lap record for road-legal production cars.
+002_r5	-	A 1972 icon came back as an EV and won. 💛 The Renault 5 E-Tech Electric was named European Car of the Year 2025, a year after the Renault Scenic E-Tech won it.
+003_f40	-	The last Ferrari Enzo approved. 🐎 The Ferrari F40 was revealed in July 1987 to mark Ferrari's 40th anniversary.
+004_byd	-	The EV crown changed hands. 👑 In 2025 BYD sold about 2.26 million battery-electric cars. Tesla delivered 1.64 million.
+005_lucidair	-	Range anxiety? Never heard of it. 🔋 On 5-6 July 2025 a Lucid Air Grand Touring drove 1,205 km from St. Moritz, Switzerland to Munich, Germany on a single charge.
+006_u9	-	An electric car from China just out-ran Bugatti. ⚡ On 14 September 2025 the Yangwang U9 Xtreme (BYD's luxury brand) reached 496.22 km/h at the ATP Papenburg test track in Germany.
+007_ix3	-	Best car in the world? The judges said yes. 🏆 On 1 April 2026 at the New York Auto Show, the electric BMW iX3 won World Car of the Year 2026 and World Electric Vehicle 2026.
+008_miura	-	This is where 'supercar' began. 🧡 The Lamborghini Miura was revealed at the Geneva Motor Show in March 1966.
+009_golf	-	The hot hatch king is back. 🏁 In 2026 the VW Golf GTI Edition 50 lapped the Nürburgring Nordschleife in 7:44, taking the front-wheel-drive production car record from the Honda Civic Type R.
+010_gtr	-	Godzilla's last roar. 🦖 On 26 August 2025 the final R35 Nissan GT-R rolled off the line at Nissan's Tochigi plant in Japan.
+011_taycan	-	A 4-door electric family car. Under 7 minutes at the Ring. 🤯 On 7 May 2026 a Porsche Taycan Turbo GT with Weissach Package and the new Manthey Kit lapped the Nordschleife in 6:55.5, the record for electric executive cars
+012_cla	-	52 years of waiting. Over. ⭐ In January 2026 the new Mercedes-Benz CLA won European Car of the Year at the Brussels Motor Show.
+013_mclarenf1	-	First time at Le Mans. First place. 🏁 In June 1995 the McLaren F1 GTR won the 24 Hours of Le Mans outright, at its very first attempt.
+014_rav4	-	Six years in a row. Nobody sells more cars than Toyota. 🌍 Toyota Group sold a record 11.3 million vehicles in 2025, the world's top-selling automaker for the sixth straight year.
+015_tourbillon	-	Bugatti said goodbye to the W16 with something even crazier. 🐎 In June 2024 Bugatti revealed the Tourbillon, the Chiron's successor.
+016_zr1	-	America came to the Green Hell. 🇺🇸 In 2025 the Chevrolet Corvette ZR1X lapped the Nürburgring Nordschleife in 6:49.275, the fastest time for an American production car at that point.
+017_ioniq6n	-	Hyundai did it again. Back to back. 🔥 The Hyundai Ioniq 6 N was named World Performance Car 2026, beating the BMW M2 CS and Corvette E-Ray.
+018_300sl	-	The original supercar? 🕊️ The Mercedes-Benz 300 SL 'Gullwing' was unveiled in New York in February 1954.
+019_mustang	-	Happy 60th, pony car. 🐎 The Ford Mustang was launched on 17 April 1964. On 17 April 2024 it turned 60.
+020_w1	-	The new king of McLaren. 🧡 In October 2024 McLaren revealed the W1, successor to the F1 and P1.
+021_su7	-	A phone company built a Ring record car. 📱 In 2025 the production Xiaomi SU7 Ultra lapped the Nürburgring Nordschleife in 7:04.957, a record for electric executive cars at the time.
+022_gravity	-	The luxury SUV crown went electric. ✨ The Lucid Gravity won World Luxury Car 2026, beating the Cadillac Vistiq and Volvo ES90.
+023_prius	-	Before EVs were cool, there was this. 🔋 Toyota launched the Prius in Japan in December 1997, the world's first mass-produced hybrid car.
+024_499p	-	Three in a row at Le Mans. 🇮🇹 In June 2025 the #83 AF Corse Ferrari 499P (Kubica, Ye, Hanson) won the 24 Hours of Le Mans.
+025_nevera	-	Croatia built a rocket. 🚀 In 2025 the Rimac Nevera R reached 431.45 km/h, a new top-speed record for electric production cars at the time.
+026_f80	-	The new Ferrari hypercar has arrived. 🐎 In October 2024 Ferrari revealed the F80, following the GTO, F40, F50, Enzo and LaFerrari.
+027_ev9	-	A 7-seat electric SUV beat everyone. 🏆 The Kia EV9 won World Car of the Year 2024 and World Electric Vehicle 2024 at the New York Auto Show.
+028_etype	-	Many still call it the most beautiful car ever made. 💙 The Jaguar E-Type was unveiled at the Geneva Motor Show in March 1961.
+029_golf50	-	Half a century of the people's hatchback. 🎂 The first VW Golf entered production in March 1974. In 2024 it turned 50.
+030_mazda6e	-	Mazda just knows design. 🎨 The Mazda 6e (sold as EZ-6 in China) won World Car Design of the Year 2026, beating the Kia PV5 and Volvo ES90.
+031_u9ring	-	Under 7 minutes, fully electric. 🟢 On 22 August 2025 the Yangwang U9 Xtreme lapped the Nürburgring Nordschleife in 6:59.157, the fastest lap for a production electric car at the time.
+032_ioniq5n	-	An electric hatch with fake gear shifts. And it won. ⚡ The Hyundai Ioniq 5 N won World Performance Car 2025. Its 'N e-shift' even simulates gear changes and engine sound.
+033_turbo	-	The widowmaker turned 50. 🔴 The Porsche 911 Turbo (type 930) was shown at the Paris Motor Show in October 1974.
+034_firefly	-	Small car, big win. 🔦 Firefly, the third brand of China's NIO, won World Urban Car 2026, beating the Hyundai Venue and Chevrolet Spark EUV.
+035_veyron	-	The car that started the hypercar war. ⚫ The Bugatti Veyron 16.4 entered production in 2005 with an 8.0-litre quad-turbo W16 making 1,001 PS.
+036_lambo	-	Five record years in a row. 🐂 In 2025 Lamborghini delivered 10,747 cars, the most in its history and its fifth straight record year.
+037_supramk4	-	The engine that built a legend. 🔧 The fourth-generation Toyota Supra (A80) arrived in 1993. Its 3.0-litre 2JZ-GTE twin-turbo straight-six became famous for handling huge power on stock internals.
+038_849testarossa	-	The SF90 has a successor. 🐎 On 9 September 2025 Ferrari revealed the 849 Testarossa, replacing the SF90 Stradale. Twin-turbo V8 plus three electric motors: 1,050 cv, 50 more than the SF90.
+039_bentley	-	End of the W12. 🇬🇧 On 23 July 2024 Bentley hand-built its final 6.0-litre W12 in Crewe. More than 100,000 were made since the 2003 Continental GT.
+040_vantage	-	The biggest power jump in Vantage history. 💚 Revealed in February 2024, the new Vantage's twin-turbo V8 makes 665 PS and 800 Nm, up from 510 PS.
+041_r34	-	Godzilla, generation five. 🦖 The R34 Nissan Skyline GT-R launched in January 1999 with the 2.6-litre RB26DETT twin-turbo straight-six and ATTESA all-wheel drive.
+042_temerario	-	A V8 that screams to 10,000. 🐂 Revealed in August 2024, the Huracán's successor pairs a twin-turbo V8 with three electric motors: 920 CV, and the engine revs to 10,000 rpm.
+043_corvette	-	Four-digit Corvette. 🇺🇸 Revealed in July 2024, the C8 ZR1's twin-turbo 5.5-litre LT7 V8 makes 1,064 hp, the most powerful Corvette ever and the first factory turbo Vette.
+044_tesla	-	The car that made EVs cool is done. ⚡ On its Q4 2025 earnings call (Jan 2026) Tesla said Model S and Model X production would end in Q2 2026. The Fremont space goes to Optimus robots.
+045_nsx	-	Honda vs Ferrari, 1990. 🇯🇵 The NSX launched in 1990 with an all-aluminium monocoque body, a first for a production car. Ayrton Senna gave feedback during development.
+046_m4	-	The sweet spot M4. 🔵 Revealed in May 2024, the M4 CS gets 543 hp from its twin-turbo straight-six and a notarized Nordschleife lap of 7:21.99.
+047_chiron	-	The last Chiron. 🔵 In 2024 Bugatti completed the 500th and final Chiron, a Super Sport called "L'Ultime". All 500 were sold.
+048_rolls	-	Still V12. ✨ In October 2024 Rolls-Royce revealed the Ghost Series II, its most popular nameplate, with new lights and tech but the same 6.75-litre twin-turbo V12.
+049_rx7	-	No pistons, all attitude. 🌀 The third-generation Mazda RX-7 (FD) launched in 1992 with a 1.3-litre 13B twin-rotor engine and sequential twin turbochargers.
+050_ferrari24	-	Record year in Maranello. 🐎 Ferrari delivered 13,752 cars in 2024, its highest ever.
+051_g580	-	A G-Class that turns in place. 🔄 Revealed in April 2024, the Mercedes G 580 with EQ Technology uses four electric motors, one per wheel, enabling the "G-Turn" tank spin.
+052_aventador	-	The V12 king. 🐂 The last Aventador was built in September 2022. Over 11 years Lamborghini made 11,465, more than all previous V12 Lamborghinis combined.
+053_e30	-	Born to race. 🏁 The first BMW M3 (E30) arrived in 1986, built so BMW could go touring car racing. It became one of the most successful touring cars ever.
+054_m5	-	The M5 went hybrid. 🔌 The seventh-generation M5 (G90), revealed in June 2024, pairs a twin-turbo V8 with an electric motor for 727 hp.
+055_porsche2025	-	Porsche by the numbers. 📊 Porsche delivered 279,449 cars worldwide in 2025.
+056_laf	-	Ferrari's first hybrid hypercar. 🐎 The LaFerrari debuted in 2013 with a V12 plus electric motor for 963 cv. Only 499 coupes were built.
+057_r8	-	Goodbye, R8. 💔 Audi built the final R8 in March 2024, ending 17 years of production. 45,949 were made.
+058_amggtr	-	Black Series, black magic. ⚫ In November 2020 the Mercedes-AMG GT Black Series lapped the Nordschleife in 6:43.616 with Maro Engel, beating the Aventador SVJ's 6:44.97.
+059_ae86	-	The panda that taught the world to drift. 🐼 The AE86 Corolla Levin/Sprinter Trueno launched in 1983: light, rear-wheel drive, and later made famous by Initial D.
+060_supra	-	The A90 era ends. 🏁 The GR Supra went into production in March 2019. Toyota said production would end in March 2026.
+061_civic	-	Front-wheel drive, top of the Ring. 🔴 In April 2017 the FK8 Civic Type R lapped the Nordschleife in 7:43.8, the fastest front-wheel-drive time at the time.
+062_testarossa	-	The poster car of the 80s. 🔴 The Ferrari Testarossa debuted at the 1984 Paris Motor Show with a 4.9-litre flat-12 and those famous side strakes.
+063_ferrari25	-	Fewer cars, more money. 💰 In 2025 Ferrari delivered 13,640 cars, slightly fewer than 2024, but revenue hit a record €7.1 billion.
+064_chiron300	-	Faster than 300 mph. 🚀 In August 2019 a pre-production Bugatti Chiron Super Sport 300+ reached 490.484 km/h at Ehra-Lessien.
+065_lfa	-	The V10 that sings. 🎶 The Lexus LFA was built from 2010 to 2012, just 500 cars. Its 4.8-litre V10 revs to 9,000 rpm.
+066_p911	-	One million 911s. 🎉 In May 2017 Porsche built the one millionth 911 in Zuffenhausen, 54 years after the original.
+067_fordgt	-	Ford vs Ferrari, again. 🏁 In June 2016 the Ford GT won the GTE Pro class at Le Mans, exactly 50 years after Ford's famous 1966 1-2-3.
+068_z240	-	The Z that started it all. 🇯🇵 The Datsun 240Z launched in 1969, an affordable straight-six sports car that became a hit in America.
+069_evo	-	Rally royalty. 🏆 Tommi Mäkinen won four straight World Rally Championships, 1996 to 1999, driving the Mitsubishi Lancer Evolution.
+070_mini	-	Small car, giant killer. 🇬🇧 In 1964 Paddy Hopkirk won the Monte Carlo Rally in a Mini Cooper S, beating far bigger cars.
+071_u9	-	500 km/h is broken. 🤯 On 1 November 2026 Yangwang (BYD's luxury brand) says its U9 Xtreme hit 503.17 km/h on a public road in Abu Dhabi. In Sept 2025 it had already beaten the Bugatti Chiron 300+ with 496.22 km/h.
+072_gtr	-	Goodbye, Godzilla. 🦖 The final R35 GT-R, a Midnight Purple T-Spec, rolled out of Tochigi on 26 August 2025. About 48,000 were built since 2007. Nissan says the name will return.
+073_f812	-	No turbos. No hybrid. Just V12. 🐎 Revealed in Miami on 3 May 2024, the 12Cilindri replaced the 812 Superfast. Its 6.5-litre naturally aspirated V12 makes 830 cv and revs to 9,500 rpm.
+074_p992	-	The 911 went hybrid. 🔋 Revealed on 28 May 2024, the 911 Carrera GTS T-Hybrid is the first road-legal hybrid 911: 541 PS, 61 PS more than before, and a 7:16.934 Nordschleife lap.
+075_mustang	-	60 years of the pony car. 🐎 Ford unveiled the Mustang at the New York World's Fair on 17 April 1964. By its 60th birthday in 2024 it had passed 10 million sales.
+076_mclaren	-	720 wasn't enough. 🧡 In 2023 McLaren revealed the 750S as the 720S's successor, its twin-turbo V8 now making 750 PS.
+077_gtrlb	-	Godzilla at the Ring. 🏁 In 2013 the R35 GT-R Nismo lapped the Nürburgring Nordschleife in 7:08.679, down from 7:26 in 2009.
