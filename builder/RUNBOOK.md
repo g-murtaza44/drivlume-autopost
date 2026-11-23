@@ -17,6 +17,7 @@ Count unposted folders = folders in posts/ not listed in posted.log. 5 are used 
 - Style (locked): full-bleed photo, no blur, big lime Anton number behind the car (or `"front":true` when the car fills the frame / number gets hidden). Text 1 sentence, 12-20 words, 2-3 **highlights**.
 - Caption: short hook line + emoji, 1-2 short fact paragraphs, a fun question; build.py appends Pictured/Source/Photo credit/hashtags. Tags sets: sup, jdm, it, de, lux, us, ev, hyp, cn. Mood = music search word (phonk, synthwave, epic, cinematic, chill).
 - Write in English for the audience. No em dashes.
+- Optional "tag" (red pill above text, e.g. "JUST IN • NOV 2026", "END OF AN ERA"): DO NOT use until GM approves it (pending since 23 Nov). If this line says APPROVED, use it on fresh-news posts only.
 
 ## How to build
 1. `bash builder/setup.sh` (fresh session).

@@ -49,7 +49,7 @@ def prep(it):
 def one(it):
     from mkp import build
     d=os.path.join(OUT,it['key']);job=dict(k='b_'+it['key'],photo=d+'/photo.jpg',cut=d+'/cut.png',num=it['num'],text=hl(it['text']))
-    for o in('front','dim','overlap','oy','fs'):
+    for o in('front','dim','overlap','oy','fs','tag'):
         if o in it: job[o]=it[o]
     build(job,d);return it['key']
 def main():

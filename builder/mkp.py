@@ -36,5 +36,5 @@ def build(job,out):
     if not job.get('front'): img.alpha_composite(car)
     os.makedirs(out,exist_ok=True);img.convert('RGB').save(f'{out}/scene.jpg',quality=94)
     t=open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'tpl.html')).read();i0=t.index('<div class="abs txt">');i1=t.index('</div>',i0)
-    t=t[:i0]+'<div class="abs txt">'+job['text']+t[i1:];t=t.replace('src="reel_scene.jpg"',f'src="file://{os.path.abspath(out)}/scene.jpg"')
+    t=t[:i0]+'<div class="abs txt">'+(f'<div class="tag">{job["tag"]}</div><br>' if job.get('tag') else '')+job['text']+t[i1:];t=t.replace('src="reel_scene.jpg"',f'src="file://{os.path.abspath(out)}/scene.jpg"')
     open(f'{out}/p.html','w').write(t)
