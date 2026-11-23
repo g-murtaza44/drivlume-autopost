@@ -75,3 +75,25 @@
 075_mustang	-	60 years of the pony car. 🐎 Ford unveiled the Mustang at the New York World's Fair on 17 April 1964. By its 60th birthday in 2024 it had passed 10 million sales.
 076_mclaren	-	720 wasn't enough. 🧡 In 2023 McLaren revealed the 750S as the 720S's successor, its twin-turbo V8 now making 750 PS.
 077_gtrlb	-	Godzilla at the Ring. 🏁 In 2013 the R35 GT-R Nismo lapped the Nürburgring Nordschleife in 7:08.679, down from 7:26 in 2009.
+byd19m	https://images.unsplash.com/photo-1728469876764-d21cc7153e65	On 9 Nov 2026 BYD built its 19 millionth new-energy car, just 124 days after the 17 millionth.
+cybertruck	https://images.unsplash.com/photo-1731988423705-d5f267e711b4	In Nov 2026 Elon Musk said Cybertruck production will wind down by mid-2027.
+ecoty27	https://images.unsplash.com/photo-1704039033596-c3de2ad6cf82	All 7 finalists for European Car of the Year 2027 are electric, and none of them is Chinese.
+countach	https://images.unsplash.com/photo-1711196791468-8cc5b7205b39	The Lamborghini Countach prototype stunned Geneva in March 1971, and the supercar wedge was born.
+mcl820	https://images.unsplash.com/photo-1617335692042-7a3779b8e050	McLaren says the 750S successor, the McL 820, arrives in 2027 with 820 PS.
+valhalla	https://images.unsplash.com/photo-1709115667926-cb28694d2e6b	Aston Martin's Valhalla Spider debuted in Oct 2026 with 1,064 hp and 0-100 in 2.5 s.
+roadster	https://images.unsplash.com/photo-1717347424087-842a99131d8e	Tesla showed the new Roadster prototype in Oct 2026, claiming 0-60 mph in under 1 second.
+gto250	https://images.unsplash.com/photo-1646562501125-de80d849b50f	In Nov 2023 a Ferrari 250 GTO sold for $51.7 million, a Ferrari auction record.
+bmwi3	https://images.unsplash.com/photo-1709269271414-0a0a026298d8	BMW says its new i3 drove 1,213 km on a single charge in China, finishing with 1% left.
+porsche9m	https://images.unsplash.com/photo-1704712375640-e7bfe18c7ad0	From January to September 2026 Porsche delivered 178,532 cars, down 16%, but 911 sales rose 12%.
+bmwm1m	https://images.unsplash.com/photo-1768352725353-d498db8a1722	In Oct 2026 BMW built its 1 millionth M car in Munich: a Fire Orange M3 saloon.
+stratos	https://images.unsplash.com/photo-1780344474645-ee8628a69e3a	The Lancia Stratos won three straight World Rally manufacturers' titles: 1974, 1975 and 1976.
+rivian	https://images.unsplash.com/photo-1696890508757-bc0f5a14efa5	Rivian delivered 19,248 EVs in Q3 2026, as the new R2 joined the range.
+wcoty27	https://images.unsplash.com/photo-1728469876679-3a50c1655ca7	27 of the first 56 contenders for World Car of the Year 2027 come from Chinese brands.
+wrxgd25	https://images.unsplash.com/photo-1653171176171-93a15ad813ee	Subaru will build only 350 WRX tS GD25, a manual-only special for the WRX's 25th birthday.
+s2000	https://images.unsplash.com/photo-1696648450153-39c8c56a92d2	The Honda S2000 arrived in 1999 with a 2.0-litre four that revved to 9,000 rpm.
+grmn	https://images.unsplash.com/photo-1654617783689-9e85155659da	Toyota's two-seat GRMN Corolla is limited to 730 cars and costs from $64,360 in the US.
+fordgtmk4	https://images.unsplash.com/photo-1641324521420-9deae6a21aa9	In 2026 the track-only Ford GT Mk IV lapped the Nordschleife in 6:15.977.
+mx5	https://images.unsplash.com/photo-1752774071378-8602a27c159d	The Mazda MX-5 debuted in February 1989 and became the best-selling two-seat sports car ever.
+gtd	https://images.unsplash.com/photo-1754973277205-55f349c5ce5a	In April 2026 Ford said the Mustang GTD Competition lapped the Nordschleife in 6:40.835.
+focus	https://images.unsplash.com/photo-1697037359336-9218c1f5e2cb	On 14 Nov 2025 Ford built the last Focus in Germany, after 27 years and over 12 million sold.
+beetle	https://images.unsplash.com/photo-1743630734351-703f11cf748b	The last classic VW Beetle was built in Mexico on 30 July 2003, after more than 21.5 million.
