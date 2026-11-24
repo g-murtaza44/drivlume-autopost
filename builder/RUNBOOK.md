@@ -8,7 +8,7 @@ Count unposted folders = folders in posts/ not listed in posted.log. 5 are used 
 - Else build enough to reach ~35 unposted (usually 15-30 reels), in batches of ~10.
 
 ## Content rules (locked by GM)
-- Cars only. 80% recent (2025-2026 news first, newest first; 2024 ok), 20% classics.
+- Cars only. GM rule (24 Nov): 4 out of every 5 reels = RECENT NEWS (last 2-4 weeks first, newest first; older 2025-2026 only if fresh news runs short). 1 in 5 = classic/legend. Spread them: never two classics in a row.
 - Prefer FRESH car news from the last 2-4 weeks: records, launches, reveals, production ends, sales results, milestones.
 - Facts: verify every number/date with WebSearch (official brand newsroom or 2 reputable outlets). Write dated facts ("In Nov 2026 ..."), never "still/current/fastest ever". Claims a company makes itself: say "X says".
 - Never repeat a story in builder/used.txt. Same car is fine with a new story and a new photo.
@@ -17,7 +17,7 @@ Count unposted folders = folders in posts/ not listed in posted.log. 5 are used 
 - Style (locked): full-bleed photo, no blur, big lime Anton number behind the car (or `"front":true` when the car fills the frame / number gets hidden). Text 1 sentence, 12-20 words, 2-3 **highlights**.
 - Caption: short hook line + emoji, 1-2 short fact paragraphs, a fun question; build.py appends Pictured/Source/Photo credit/hashtags. Tags sets: sup, jdm, it, de, lux, us, ev, hyp, cn. Mood = music search word (phonk, synthwave, epic, cinematic, chill).
 - Write in English for the audience. No em dashes.
-- Optional "tag" (red pill above text, e.g. "JUST IN • NOV 2026", "END OF AN ERA"): DO NOT use until GM approves it (pending since 23 Nov). If this line says APPROVED, use it on fresh-news posts only.
+- "tag" APPROVED by GM (24 Nov): put a red pill tag on every recent-news reel, e.g. "JUST IN • NOV 2026" (news under ~2 weeks old), "BREAKING", "END OF AN ERA" (production ends), "NEW RECORD", "REVEALED". No tag on classics.
 
 ## How to build
 1. `bash builder/setup.sh` (fresh session).
