@@ -97,3 +97,14 @@ mx5	https://images.unsplash.com/photo-1752774071378-8602a27c159d	The Mazda MX-5 
 gtd	https://images.unsplash.com/photo-1754973277205-55f349c5ce5a	In April 2026 Ford said the Mustang GTD Competition lapped the Nordschleife in 6:40.835.
 focus	https://images.unsplash.com/photo-1697037359336-9218c1f5e2cb	On 14 Nov 2025 Ford built the last Focus in Germany, after 27 years and over 12 million sold.
 beetle	https://images.unsplash.com/photo-1743630734351-703f11cf748b	The last classic VW Beetle was built in Mexico on 30 July 2003, after more than 21.5 million.
+temspyder	https://images.unsplash.com/photo-1770648592464-04a9c2cab752	In Nov 2026 Lamborghini revealed the Temerario Spyder: a 920 CV hybrid V8 that revs to 10,000 rpm.
+jesko125	https://images.unsplash.com/photo-1724091663890-d84c2abfb28b	In Nov 2026 Koenigsegg delivered the final Jesko, a one-off Jesko 125, closing the 125-car run.
+teslacn	https://images.unsplash.com/photo-1701927261541-2d582d70e9ba	In Oct 2026 Tesla sold just 8,817 cars in China, its weakest month there since July 2022.
+frostward	https://images.unsplash.com/photo-1686715692509-8cb69d40d081	At SEMA in Nov 2026 Ford revealed the Bronco Frostwarden with a 1,200+ hp supercharged 7.3-litre V8.
+diablo	https://images.unsplash.com/photo-1711412141911-3a2fe1d25369	In January 1990 Lamborghini revealed the Diablo, with a 5.7-litre V12 and a claimed 325 km/h top speed.
+typerhrc	https://images.unsplash.com/photo-1686074449582-6374eaebacf3	At SEMA in Nov 2026 Honda confirmed the hardcore Civic Type R HRC is in development for the US.
+ferrariq3	https://images.unsplash.com/photo-1614200187524-dc4b892acf16	On 3 Nov 2026 Ferrari reported Q3 net profit up 12.8% to €431 million from 3,368 cars.
+mcl6gt	https://images.unsplash.com/photo-1621615578530-cbf3c443165f	In Nov 2026 McLaren publicly debuted the McL 6GT, its first manual car since the F1.
+byd300k	https://images.unsplash.com/photo-1780689852509-2256804f8cc4	In Oct 2026 BYD sold 305,743 battery-electric cars, its first month ever above 300,000 BEVs.
+quattro	https://images.unsplash.com/photo-1790343072393-ed15ad9c6061	In March 1980 Audi revealed the quattro at Geneva, bringing four-wheel drive to fast cars.
+huayra70	https://images.unsplash.com/photo-1635974066296-b71d03049ed7	On 31 Oct 2026 Pagani unveiled the Huayra 70 Anima, the final one-off of its Huayra 70 trilogy.
