@@ -108,3 +108,16 @@ mcl6gt	https://images.unsplash.com/photo-1621615578530-cbf3c443165f	In Nov 2026 
 byd300k	https://images.unsplash.com/photo-1780689852509-2256804f8cc4	In Oct 2026 BYD sold 305,743 battery-electric cars, its first month ever above 300,000 BEVs.
 quattro	https://images.unsplash.com/photo-1790343072393-ed15ad9c6061	In March 1980 Audi revealed the quattro at Geneva, bringing four-wheel drive to fast cars.
 huayra70	https://images.unsplash.com/photo-1635974066296-b71d03049ed7	On 31 Oct 2026 Pagani unveiled the Huayra 70 Anima, the final one-off of its Huayra 70 trilogy.
+gt41	https://images.unsplash.com/photo-1637014787390-7b3b9c134ca7	On 26 Nov 2026 Ford revealed the GT41 Le Mans Hypercar, a hybrid 5.4L V8 aimed at Le Mans.
+gt1trib	https://images.unsplash.com/photo-1611821064430-0d40291d0f0b	In Nov 2026 Porsche revealed a one-off 911 GT3 tribute to the 911 GT1, with 510 PS.
+boxev	https://images.unsplash.com/photo-1632245889029-e406faaa34cd	Porsche says the electric 718 Boxster prototypes covered nearly 4 million km before its 2027 debut.
+m3ev	https://images.unsplash.com/photo-1607853554439-0069ec0f29b6	BMW says the all-electric M3 gets four motors and about 850 hp, one motor per wheel.
+etype	https://images.unsplash.com/photo-1662282925500-ddd13acb4fef	In March 1961 the Jaguar E-Type stunned Geneva with 150 mph for about half a Ferrari's price.
+gwrmini	https://images.unsplash.com/photo-1553096101-a3f068e65db8	On GWR Day 2026 a Mini Cooper parallel parked on two wheels into a 6.53 m gap.
+elantra	https://images.unsplash.com/photo-1789877030578-52ebe8baaea5	At the LA Auto Show Hyundai revealed the new Elantra, with a 155 hp hybrid and a 12.9-inch screen.
+integrahe	https://images.unsplash.com/photo-1733442779869-05cd3d97de1c	Only 700 Acura Integra Type S Heritage Edition cars will be built, marking 30 years of Type R.
+mclf1	https://images.unsplash.com/photo-1516298252535-cf2ac5147f9b	In March 1998 the McLaren F1 averaged 240.1 mph at Ehra-Lessien with a naturally aspirated V12.
+nevera	https://images.unsplash.com/photo-1782215850348-fea7ea66ce6a	Rimac is ending Nevera production early at just 71 cars, far below the 190 it planned.
+cnnev	https://images.unsplash.com/photo-1709964678041-a0fe6865c809	In Oct 2026 new-energy cars took a record 67.5% of China's car sales, says the CPCA.
+polestar2	https://images.unsplash.com/photo-1668283747664-16bcd40c7340	Polestar has ended Polestar 2 production in China after 6 years and about 200,000 cars.
+p917	https://images.unsplash.com/photo-1727941272352-e5ba1b5aebed	In June 1970 the Porsche 917 gave Porsche its first overall Le Mans win, covering 4,607 km.
