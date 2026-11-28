@@ -47,6 +47,27 @@ def post(folder):
         if s.get("status_code") == "ERROR": print(s); sys.exit(1)
     p = call("POST", f"{IGID}/media_publish", {"creation_id": cid})
     print("PUBLISHED", p)
+    story(video)
+
+def story(video):
+    # Also share the reel video as a Story. Never fails the run.
+    if os.environ.get("NO_STORY") == "1": return
+    try:
+        params = dict(media_type="STORIES", video_url=video, access_token=TOKEN)
+        req = urllib.request.Request(f"{G}/{IGID}/media", data=urllib.parse.urlencode(params).encode(), method="POST")
+        sid = json.load(urllib.request.urlopen(req, timeout=60))["id"]
+        for _ in range(30):
+            time.sleep(10)
+            q = urllib.parse.urlencode({"fields": "status_code", "access_token": TOKEN})
+            st = json.load(urllib.request.urlopen(f"{G}/{sid}?{q}", timeout=60)).get("status_code")
+            if st == "FINISHED": break
+            if st == "ERROR": print("Story container error"); return
+        req = urllib.request.Request(f"{G}/{IGID}/media_publish", data=urllib.parse.urlencode({"creation_id": sid, "access_token": TOKEN}).encode(), method="POST")
+        print("STORY PUBLISHED", json.load(urllib.request.urlopen(req, timeout=60)))
+    except urllib.error.HTTPError as e:
+        print("Story failed (reel is fine):", e.read().decode()[:300])
+    except Exception as e:
+        print("Story failed (reel is fine):", e)
 
 from datetime import datetime, timedelta, timezone
 PKT = timezone(timedelta(hours=5))
